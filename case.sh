@@ -1,6 +1,6 @@
 #!/bin/bash
 case $1 in
-    Herbert | herbert)
+    Test | test)
         echo "Oh, you're the boss here. Welcome!"
         ;;
     *)
